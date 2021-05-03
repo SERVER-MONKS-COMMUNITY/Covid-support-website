@@ -8,7 +8,7 @@ Team : <strong>SMC T-5</strong>
 4. Ruchita Das<br>
 
 ### Live project [link](https://jos-re.github.io/Covid-support-website/)<br>
-The source code is pushed onto the Master branch.
+The source code is pushed onto the Master branch.<br>
 Problem Statement category elected : HEALTH
 
 ### Project Description
