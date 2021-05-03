@@ -7,7 +7,6 @@ Team : <strong>SMC T-5</strong>
 3. Nandini Jain<br>
 4. Ruchita Das<br>
 
-#### Live Project [Link](The source code is pushed onto the Master branch.)<br>
 
 The source code is pushed onto the Master branch.
 Problem Statement category elected : HEALTH
