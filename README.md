@@ -7,9 +7,9 @@ Team : <strong>SMC T-5</strong>
 3. Nandini Jain<br>
 4. Ruchita Das<br>
 
-### Live project [link](https://jos-re.github.io/Covid-support-website/)<br>
-The source code is pushed onto the Master branch.<br>
-Problem Statement category elected : HEALTH
+>### [Click Here](https://jos-re.github.io/Covid-support-website/) to view the project<br>
+
+Project category : HEALTHCARE
 
 ### Project Description
 SOCIAL ASSIST has brought together various social media handles and support websites onto one place, while providing ease of accessing data and answering queries related to availability of various facilities, including the guidelines to mitigate the spread of this disease.
