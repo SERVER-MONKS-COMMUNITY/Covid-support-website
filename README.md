@@ -1,6 +1,6 @@
 # Social Assist
 
-Team : <strong>SMC T-5</strong>
+Team : <strong>TA-Nautilus</strong>
 
 1. Joshith Reddy Gopidi (L)<br>
 2. Madhvendra Pratap Singh<br>
